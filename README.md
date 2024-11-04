@@ -32,7 +32,7 @@ Actualmente, me enfoco en mejorar mis habilidades en desarrollo de videojuegos. 
 ---
 ## 🤝 Contacto
 Si tienes alguna pregunta o quieres colaborar en un proyecto, ¡no dudes en contactarme!
-**Correo:** sebaslf02@gmail.com
-**[Portfolio Web]**(https://sebastian02l.github.io/myportfolio.github.io/)
-**[Perfil LinkedIn]**(https://www.linkedin.com/in/sebasti%C3%A1n-loges-de-faria-90916b164/)
+- **Correo:** sebaslf02@gmail.com
+- **[Portfolio Web](https://sebastian02l.github.io/myportfolio.github.io/)**
+- **[Perfil LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-loges-de-faria-90916b164/)**
 
