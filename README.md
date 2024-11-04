@@ -27,7 +27,7 @@ Me encanta explorar nuevas tecnologías y trabajar en nuevos proyectos. Aquí po
 ---
 
 ## 🌱 En constante aprendizaje
-Actualmente, me enfoco en mejorar mis habilidades en desarrollo de videojuegos. Cada proyecto me ayuda a afianzar mis conocimientos y explorar nuevas herramientas y técnicas útiles para futuros desarrollos.
+Actualmente, me enfoco en mejorar mis habilidades en desarrollo de videojuegos. Cada proyecto me ayuda a afianzar mis conocimientos, explorar nuevas herramientas y técnicas útiles para futuros desarrollos.
 
 ---
 ## 🤝 Contacto
