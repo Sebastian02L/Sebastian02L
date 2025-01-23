@@ -26,7 +26,7 @@ Me encanta explorar nuevas tecnologías y trabajar en nuevos proyectos. Aquí po
 - 😖 **[Hangman Game](https://github.com/Sebastian02L/AndroidHangmanGame)** 😖: Videojuego para Android creado con Flutter. Deberás adivinar la mayor cantidad de palabras posible en dos modos de juego. ¡Escoge entre las cinco categorías disponibles!
   - Me encargué de la programación de las funcionalidades necesarias para la gestión de la partida, como gestión de letras correctas/incorrectas, actualización de la interfaz, sistema de comprobación de letras y creación del estado del juego.
 
-- 🤔 **[Hangman Game](https://github.com/Sebastian02L/AndroidTrivialGame)** 🤔: Videojuego para Android creado con Jectpack Compose. Juego de trivia donde hay una gran cantidad de preguntas distribuidas en dos categorias. ¡Intenta adivinar la mayor cantidad de preguntas posible!
+- 🤔 **[Trivial Game](https://github.com/Sebastian02L/AndroidTrivialGame)** 🤔: Videojuego para Android creado con Jectpack Compose. Juego de trivia donde hay una gran cantidad de preguntas distribuidas en dos categorias. ¡Intenta adivinar la mayor cantidad de preguntas posible!
   - Me encargué de la programación de la pantalla de ajustes de la partida, así como la navegación de la aplicación mediante la librería Navigation.
 
 - 🧰 **[Integración Continua Unity Itchio](https://github.com/Sebastian02L/PruebaIntegracionContinuaUnityItchio)** 🧰: Ejemplo de integración continua en Unity y despliegue en Itch.io. Este repositorio es útil para desarrolladores que busquen aprender sobre integración de proyectos Unity en plataformas de publicación de juegos.
