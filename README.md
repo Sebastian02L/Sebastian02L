@@ -7,7 +7,7 @@ Me encanta explorar nuevas tecnologías y trabajar en nuevos proyectos. Aquí po
 ---
 
 ## 🌟 Repositorios Destacados 🌟
-- 📖 **[Pattern World](https://github.com/Sebastian02L/PatternWorld)** 📖: Proyecto de Fin de Grado. Videojuego educativo para ordenador que enseña y da a conocer los patrones de diseño de forma gamificada. 
+- 📖 **[Pattern World](https://github.com/Sebastian02L/PatternWorld)** 📖: Proyecto de Fin de Grado. Videojuego serio para ordenador que enseña y da a conocer los patrones de diseño de software a través de un videojuego. 
   -  Me encargué de todos los aspectos del videojuego, desde el diseño de niveles, diseño de juego, programación y animaciones.
 
 - 🧊 **[KO Cube](https://github.com/FlatWall-Games/KO-Cube)** 🧊: Videojuego para navegador del género Hero Shooter 3vs3, con estilo Voxel Art, donde podrás jugar con tus amigos a través de cualquier dispositivo.
