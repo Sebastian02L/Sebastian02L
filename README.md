@@ -1,8 +1,9 @@
 # 👋 ¡Hola! Soy Sebastián Loges de Faria 👋
 
 ### Sobre mí
-Soy un desarrollador apasionado por la programación y el desarrollo de videojuegos. Actualmente estoy estudiando mi cuarto año de carrera en Diseño y Desarrollo de Videojuegos, en la Universidad Rey Juan Carlos.
+Soy un desarrollador apasionado por la programación y el desarrollo de videojuegos. Graduado en Diseño y Desarrollo de Videojuegos por la Universidad Rey Juan Carlos.
 Me encanta explorar nuevas tecnologías y trabajar en nuevos proyectos. Aquí podrás encontrar algunos de mis trabajos, que reflejan mi aprendizaje y dedicación en desarrollo de videojuegos.
+Actualmente soy Game Developer en Scientific Videogames.
 
 ---
 
@@ -36,12 +37,13 @@ Me encanta explorar nuevas tecnologías y trabajar en nuevos proyectos. Aquí po
 
 ---
 
-## 🌱 En constante aprendizaje
-Actualmente, me enfoco en mejorar mis habilidades en desarrollo de videojuegos. Cada proyecto me ayuda a afianzar mis conocimientos, explorar nuevas herramientas y técnicas útiles para futuros desarrollos.
+## 🌟 Participado en 🌟
+
+-  **IATEMON** : Videojuego de realidad aumentada (AR) donde puedes capturar IATEMONS, personajes con los que puedes aprender sobre bacterias, virus, ¡y mucho más!
+    - Me encargué del diseño e implementación de la arquitectura de la aplicación, diseño de la interfaz, programación de las mecánicas AR, integración con herramientas externas como Playfab y Unity Analytics y colaboración en la creación de personajes.
 
 ---
 ## 🤝 Contacto
-Si tienes alguna pregunta o quieres colaborar en un proyecto, ¡no dudes en contactarme!
 - **Correo:** sebaslf02@gmail.com
 - **[Portfolio Web](https://sebastian02l.github.io/myportfolio.github.io/)**
 - **[Perfil LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-loges-de-faria-90916b164/)**
